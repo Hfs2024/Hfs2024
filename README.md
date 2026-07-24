@@ -13,7 +13,7 @@ I am a full stack web developer who loves building with JavaScript and modern we
 
 ### 🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Backend & Tools:** Node.js
+- **Backend & Tools:** Node.js, Git
 - **Database:** MongoDB (working specifically with Mongoose)
 
 ### 📫 How to Reach Me
