@@ -4,7 +4,7 @@ I am a full stack web developer who loves building with JavaScript and modern we
 
 ### 🚀 About Me
 - 🌍 **Portfolio:** [seifportfolio.seifahmed.workers.dev](https://seifportfolio.seifahmed.workers.dev/)
-- 🔭 **Current Project:** [Vlox](https://github.com/Hfs2024/Vlox) & [NanoScript](https://github.com/Hfs2024/NanoScript)
+- 🔭 **Current Projects:** [Vlox](https://github.com/Hfs2024/Vlox) & [NanoScript](https://github.com/Hfs2024/NanoScript)
 - 🌱 **Learning:** Python
 - 💬 **Ask me about:** Anything related to JavaScript
 - 👯 **Collaborations:** Always looking for collaborations with cool developers!
