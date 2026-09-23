@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi guys 👋
 
-I am a full stack web developer who loves building with JavaScript and modern web technologies. Check out my details below!
+I'm a full stack web developer who loves building with JavaScript and modern web technologies. 
 
 ### 🚀 About Me
 - 🌍 **Portfolio:** [seifportfolio.seifahmed.workers.dev](https://seifportfolio.seifahmed.workers.dev/)
