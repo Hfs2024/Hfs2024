@@ -3,7 +3,7 @@
 I'm a full stack web developer who loves building with JavaScript and modern web technologies. 
 
 ### 🚀 About Me
-- 🌍 **Portfolio:** [seifportfolio.seifahmed.workers.dev](https://seifportfolio.seifahmed.workers.dev/)
+- 🌍 **Portfolio:** [https://seifportfolio.seifahmedcoder.workers.dev/](https://seifportfolio.seifahmedcoder.workers.dev/)
 - 🔭 **Current Projects:** [Vlox](https://github.com/Hfs2024/Vlox) & [NanoScript](https://github.com/Hfs2024/NanoScript)
 - 🌱 **Learning:** Python
 - 💬 **Ask me about:** Anything related to JavaScript
@@ -16,6 +16,6 @@ I'm a full stack web developer who loves building with JavaScript and modern web
 - **Backend & Tools:** Node.js, Git
 - **Database:** MongoDB (working specifically with Mongoose)
 
-### 📫 How to Reach Me
+### 📫 Let's Chat!
 - 📧 **Email:** seifahmedcoder@gmail.com
   
